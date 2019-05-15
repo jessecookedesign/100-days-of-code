@@ -15,3 +15,9 @@
 **Thoughts:** Learned how to write and use switch statements. I tried changing the console.log functions to document.getElementByID().innerHTML but had no luck. To be continued!
 
 **Link to work:** https://codepen.io/jesseallencooke/pen/pmEGJJ
+
+### Day 003: May 14, 2019
+
+**Today's Progress**: Learned how to build a pure CSS responsive hamburger menu.
+
+**Thoughts:** CSS hamburger menus are surprisingly simple once you figure them out. It took me a while, quite a few tutorials, and browsing a few codepens/jsfiddles but I think I got it figured out. Putting this into action now on a client's website.
