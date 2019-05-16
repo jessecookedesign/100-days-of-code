@@ -21,3 +21,9 @@
 **Today's Progress**: Learned how to build a pure CSS responsive hamburger menu.
 
 **Thoughts:** CSS hamburger menus are surprisingly simple once you figure them out. It took me a while, quite a few tutorials, and browsing a few codepens/jsfiddles but I think I got it figured out. Putting this into action now on a client's website.
+
+### Day 004: May 15, 2019
+
+**Today's Progress**: Finalized the responsive hamburger menu.
+
+**Thoughts:** Once I finalized locally, I implemented on a live site but ran into issues. More to come tomorrow!
