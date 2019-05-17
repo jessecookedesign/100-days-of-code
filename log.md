@@ -27,3 +27,9 @@
 **Today's Progress**: Finalized the responsive hamburger menu.
 
 **Thoughts:** Once I finalized locally, I implemented on a live site but ran into issues. More to come tomorrow!
+
+### Day 005: May 16, 2019
+
+**Today's Progress**: Learned more of the JS course on Codecademy.
+
+**Thoughts:** Learned about functions, function expressions and helper functions.
