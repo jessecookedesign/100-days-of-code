@@ -33,3 +33,9 @@
 **Today's Progress**: Learned more of the JS course on Codecademy.
 
 **Thoughts:** Learned about functions, function expressions and helper functions.
+
+### Day 006: May 17, 2019
+
+**Today's Progress**: Didn't have much time, ran through most of "JavaScript in 14 minutes"
+
+**Thoughts:** Very useful and helpful breakdown on the basics. It was a good refresher!
