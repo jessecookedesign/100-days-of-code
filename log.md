@@ -39,3 +39,9 @@
 **Today's Progress**: Didn't have much time, ran through most of "JavaScript in 14 minutes"
 
 **Thoughts:** Very useful and helpful breakdown on the basics. It was a good refresher!
+
+### Day 007: May 18, 2019
+
+**Today's Progress**: Didn't have much time, again, but ran through more of "JavaScript in 14 Minutes"
+
+**Thoughts:** This is definitely longer than 14 minutes but it's been extremely helpful!
