@@ -45,3 +45,9 @@
 **Today's Progress**: Didn't have much time, again, but ran through more of "JavaScript in 14 Minutes"
 
 **Thoughts:** This is definitely longer than 14 minutes but it's been extremely helpful!
+
+### Day 008: May 19, 2019
+
+**Today's Progress**: Started to rebuild my personal site from scratch. Brought in Skeleton.css for a grid system and began building my main nav.
+
+**Thoughts:** I've tried doing this a few times in the past but time always becomes an issue. 100 Days of Code might be a good push to get it done!
