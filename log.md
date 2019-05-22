@@ -51,3 +51,9 @@
 **Today's Progress**: Started to rebuild my personal site from scratch. Brought in Skeleton.css for a grid system and began building my main nav.
 
 **Thoughts:** I've tried doing this a few times in the past but time always becomes an issue. 100 Days of Code might be a good push to get it done!
+
+### Day 009: May 21, 2019
+
+**Today's Progress**: Started freeCodeCamp's JS curriculum.
+
+**Thoughts:** Made it through 24 lessons so far and feeling even more knowledgable in the basics.
