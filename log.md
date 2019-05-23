@@ -57,3 +57,10 @@
 **Today's Progress**: Started freeCodeCamp's JS curriculum.
 
 **Thoughts:** Made it through 24 lessons so far and feeling even more knowledgable in the basics.
+
+
+### Day 010: May 22, 2019
+
+**Today's Progress**: Finished a few more lessons on freeCodeCamp
+
+**Thoughts:** I'm getting into more complex things but they're making sense—just takes a little longer to get the hang of.
