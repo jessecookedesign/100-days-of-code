@@ -64,3 +64,10 @@
 **Today's Progress**: Finished a few more lessons on freeCodeCamp
 
 **Thoughts:** I'm getting into more complex things but they're making sense—just takes a little longer to get the hang of.
+
+
+### Day 011: May 23, 2019
+
+**Today's Progress**: Finished a few more lessons on freeCodeCamp
+
+**Thoughts:** JS is coming a lot easier now. I'm picking up more complex things a little faster and the basics are sticking with me.
