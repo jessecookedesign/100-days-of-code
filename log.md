@@ -58,13 +58,11 @@
 
 **Thoughts:** Made it through 24 lessons so far and feeling even more knowledgable in the basics.
 
-
 ### Day 010: May 22, 2019
 
 **Today's Progress**: Finished a few more lessons on freeCodeCamp
 
 **Thoughts:** I'm getting into more complex things but they're making sense—just takes a little longer to get the hang of.
-
 
 ### Day 011: May 23, 2019
 
@@ -77,3 +75,15 @@
 **Today's Progress**: I didn't have much time but I did get a couple lessons done.
 
 **Thoughts:** Learned how to .push(), .pop(), .shift(), .unshift()
+
+### Day 013: May 25, 2019
+
+**Today's Progress**: I didn't have much time but I did get a couple lessons done.
+
+**Thoughts:** Learned how to .push(), .pop(), .shift(), .unshift()
+
+### Day 014: May 26, 2019
+
+**Today's Progress**: I didn't have much time but I did get a couple lessons done.
+
+**Thoughts:** More lessons on using functions in JS.
