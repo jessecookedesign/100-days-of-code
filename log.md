@@ -87,3 +87,9 @@
 **Today's Progress**: I didn't have much time but I did get a couple lessons done.
 
 **Thoughts:** More lessons on using functions in JS.
+
+### Day 015: May 27, 2019
+
+**Today's Progress**: Got a few more freeCodeAcademy lessons done today.
+
+**Thoughts:** More lessons on using functions in JS.
